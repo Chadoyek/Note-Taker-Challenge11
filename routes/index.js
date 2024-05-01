@@ -1,4 +1,4 @@
-//routes for making notes. Modularizing for the sake of understanding how to do it
+//routes for making notes and whatnot. Modularizing for the sake of understanding how to do it
 const fs = require('../utils/dbHandle.js');
 const express = require('express');
 const app = express();
